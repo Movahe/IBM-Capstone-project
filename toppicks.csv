@@ -1,0 +1,31 @@
+,id,score,category,name,city,href,latitude,longitude
+0,42b75880f964a52090251fe3,9.6,Park,Millennium Park,Chicago,/v/millennium-park/42b75880f964a52090251fe3,41.882626771768955,-87.62333556490987
+1,49e9ef74f964a52011661fe3,9.6,Art Museum,The Art Institute of Chicago,Chicago,/v/the-art-institute-of-chicago/49e9ef74f964a52011661fe3,41.87960909496142,-87.62357176020703
+2,4c47533649fa9521cb1f5e62,9.5,Park,Grant Park,Chicago,/v/grant-park/4c47533649fa9521cb1f5e62,41.8766257847394,-87.61926269478862
+3,4b9d15c5f964a520478e36e3,9.5,Waterfront,Chicago Riverwalk,Chicago,/v/chicago-riverwalk/4b9d15c5f964a520478e36e3,41.88728,-87.627217
+4,4adfca6df964a520777d21e3,9.5,Concert Hall,Symphony Center (Chicago Symphony Orchestra),Chicago,/v/symphony-center-chicago-symphony-orchestra/4adfca6df964a520777d21e3,41.87927535633318,-87.62468041570357
+5,4b9511c7f964a520f38d34e3,9.5,Trail,Chicago Lakefront Trail,Chicago,/v/chicago-lakefront-trail/4b9511c7f964a520f38d34e3,41.967052938918144,-87.6469087600708
+6,4aa05f40f964a520643f20e3,9.5,Theater,The Chicago Theatre,Chicago,/v/the-chicago-theatre/4aa05f40f964a520643f20e3,41.8855389313031,-87.6271507302385
+7,4f2a0d0ae4b0837d0c4c2bc3,9.5,Deli / Bodega,Publican Quality Meats,Chicago,/v/publican-quality-meats/4f2a0d0ae4b0837d0c4c2bc3,41.886641964097095,-87.64871823183745
+8,4b6cfef5f964a52026622ce3,9.5,Rock Club,Thalia Hall,Chicago,/v/thalia-hall/4b6cfef5f964a52026622ce3,41.85783222480576,-87.65729185972937
+9,4b06c066f964a52097ef22e3,9.5,Liquor Store,Binny's Beverage Depot,Chicago,/v/binnys-beverage-depot/4b06c066f964a52097ef22e3,41.913048317903566,-87.6553201675415
+10,4c23e840a852c928594ae26c,9.5,Trail,Nature Boardwalk,Chicago,/v/nature-boardwalk/4c23e840a852c928594ae26c,41.9181019674175,-87.63328313827515
+11,50b69e52e4b023feffc3b3ae,9.5,Park,Maggie Daley Park,Chicago,/v/maggie-daley-park/50b69e52e4b023feffc3b3ae,41.882904611592366,-87.61884577368617
+12,49dce128f964a520b65f1fe3,9.5,Garden,Garfield Park Conservatory,Chicago,/v/garfield-park-conservatory/49dce128f964a520b65f1fe3,41.886259,-87.717177
+13,42e82000f964a52086261fe3,9.4,Indie Movies,Music Box Theatre,Chicago,/v/music-box-theatre/42e82000f964a52086261fe3,41.949860830176604,-87.66391971748097
+14,520a0cc57e4807b1c72bca82,9.4,Trail,Lakefront Trail,Chicago,/v/lakefront-trail/520a0cc57e4807b1c72bca82,41.88095290076189,-87.61711172991944
+15,4a461376f964a52085a81fe3,9.4,Amphitheater,Jay Pritzker Pavilion,Chicago,/v/jay-pritzker-pavilion/4a461376f964a52085a81fe3,41.882614176795556,-87.62178182601929
+16,4a2ae23af964a52064961fe3,9.4,Seafood,"Joe's Seafood, Prime Steak & Stone Crab",Chicago,/v/joes-seafood-prime-steak--stone-crab/4a2ae23af964a52064961fe3,41.891827934799345,-87.62544444279393
+17,4a9046daf964a520ff1620e3,9.4,Bookstore,Unabridged Books,Chicago,/v/unabridged-books/4a9046daf964a520ff1620e3,41.94158754418788,-87.64438632972113
+18,560ea28b498e460ff790ad16,9.4,Furniture / Home,Restoration Hardware,Chicago,/v/restoration-hardware/560ea28b498e460ff790ad16,41.906034019629324,-87.63050436973572
+19,55920187498ecdbb2b627305,9.4,Chocolate Shop,Ghirardelli Ice Cream And Chocolate Shop - Wrigley,Chicago,/v/ghirardelli-ice-cream-and-chocolate-shop--wrigley/55920187498ecdbb2b627305,41.889229815922526,-87.62448692774466
+20,4f6b838d7bebf48a25686d52,9.4,Park,Lincoln Park,Chicago,/v/lincoln-park/4f6b838d7bebf48a25686d52,41.92730153699251,-87.63714370890393
+21,4f9a5b92e4b0d8e6212e11cc,9.4,Waterfront,Chicago Lakefront,Chicago,/v/chicago-lakefront/4f9a5b92e4b0d8e6212e11cc,41.86656214411742,-87.6087806891488
+22,59e92b8d0e5da85456f55fa7,9.4,Electronics,Apple Michigan Avenue,Chicago,/v/apple-michigan-avenue/59e92b8d0e5da85456f55fa7,41.88926849644056,-87.62363247128044
+23,4b9a32a0f964a5200aa435e3,9.4,Bakery,Weber's Bakery,Chicago,/v/webers-bakery/4b9a32a0f964a5200aa435e3,41.791907872167535,-87.7985986999637
+24,4dfc110145ddebdfeaa9754e,9.4,Ice Cream,Lickity Split,Chicago,/v/lickity-split/4dfc110145ddebdfeaa9754e,41.99267743652594,-87.66047127449951
+25,4a6e8003f964a520d5d41fe3,9.4,Sandwiches,Bari,Chicago,/v/bari/4a6e8003f964a520d5d41fe3,41.89117781715653,-87.6556284832498
+26,4a58b7caf964a520b4b71fe3,9.4,Farmer's Market,Green City Market,Chicago,/v/green-city-market/4a58b7caf964a520b4b71fe3,41.915722890007764,-87.63399124145508
+27,54eb6f69498e75f95d61b00a,9.4,Ice Cream,Jeni's Splendid Ice Creams,Chicago,/v/jenis-splendid-ice-creams/54eb6f69498e75f95d61b00a,41.90882733007759,-87.67494398464306
+28,5743c846498ec47db1127412,9.4,Coffee Shop,Ipsento 606,Chicago,/v/ipsento-606/5743c846498ec47db1127412,41.914217884309366,-87.68331873621011
+29,4e55255f6365b59a57f7b10b,9.3,Coffee Shop,Heritage Bicycles,Chicago,/v/heritage-bicycles/4e55255f6365b59a57f7b10b,41.93576,-87.66283
